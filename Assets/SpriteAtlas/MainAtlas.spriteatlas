@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a6166abb539cd5c4d93f8d9cc7a85709, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a9148a30a6da98a4b8364d49a63da983, type: 3}
+  - {fileID: 21300000, guid: 9d398f11ea70698419154b24306c8767, type: 3}
+  - {fileID: 21300000, guid: 357bcd2165f75a84baa962294fc22585, type: 3}
+  - {fileID: 21300000, guid: 996a5991b1f4e084b885b8aeba38faa7, type: 3}
+  - {fileID: 21300000, guid: 2e8d93a139bace1408c81a960b9ca75f, type: 3}
+  - {fileID: 21300000, guid: 023c8cb11ed27e24da8e20e19c3317ec, type: 3}
+  - {fileID: 21300000, guid: 526076c178828154f8e4134934a0f4ba, type: 3}
+  - {fileID: 21300000, guid: e54632f112f503d46a846ef8a07a0c7e, type: 3}
+  - {fileID: 21300000, guid: 2c7b2d02683995240ad1a730f7fa7b21, type: 3}
+  - {fileID: 21300000, guid: f89f7f82361c7e54bab629e9d7f202bf, type: 3}
+  - {fileID: 21300000, guid: 1c4b3483d2f5df749b89ac4f815fbf4e, type: 3}
+  - {fileID: 21300000, guid: 3b7c43644f08804419b39d62687790ee, type: 3}
+  - {fileID: 21300000, guid: 2805596439486324a85cb885d180cf23, type: 3}
+  - {fileID: 21300000, guid: 8fa02515740089d408d188b83e178086, type: 3}
+  - {fileID: 21300000, guid: 16ffc9a5dfcc2aa4684541a456e18430, type: 3}
+  - {fileID: 21300000, guid: 5d96ed16f2d12c84492c187bd6528f9b, type: 3}
+  - {fileID: 21300000, guid: 71a8dc466730f4840bed1e00804b9e10, type: 3}
+  - {fileID: 21300000, guid: cb75b187cef6cea4a9acb9435e921b9f, type: 3}
+  - {fileID: 21300000, guid: 135d9db7dee18dc49b4434bea04732d1, type: 3}
+  - {fileID: 21300000, guid: 2e138e680c99d4d43a3db242da6d4661, type: 3}
+  - {fileID: 21300000, guid: 8091494aa306deb49b5bc0428ca266bd, type: 3}
+  - {fileID: 21300000, guid: 70beb86afe25f8b4e9f6cbc5e71bbc24, type: 3}
+  - {fileID: 21300000, guid: 1533fc6adbc4f12469f5c978ae81a5b2, type: 3}
+  - {fileID: 21300000, guid: a381cdcabb174a543a3396ec14ec6e98, type: 3}
+  - {fileID: 21300000, guid: 24eaf52b4d036784d929a8a9ea9d309e, type: 3}
+  - {fileID: 21300000, guid: 8c91874b3720756478e75a5f3ddc28d6, type: 3}
+  - {fileID: 21300000, guid: 58fe784b5aeca1b41b3dc7c0e2eb64d4, type: 3}
+  - {fileID: 21300000, guid: f631497b3561cea468f517318f998e48, type: 3}
+  - {fileID: 21300000, guid: d6d9aa3c69529a144bb1cf6c40098726, type: 3}
+  - {fileID: 21300000, guid: b95a6b7c55c6a06409c3e9b61b0295b7, type: 3}
+  - {fileID: 21300000, guid: 1ee3d80de76f9424ab64587879109a15, type: 3}
+  - {fileID: 21300000, guid: 8a84942ec9907ff4a8d6b39a9d824a84, type: 3}
+  - {fileID: 21300000, guid: 68c5793eea049514cba907208d59eca5, type: 3}
+  - {fileID: 21300000, guid: 3ea7bf3f69284604d98e2fac464f7d11, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - GradientCircle1
+  - Circles
+  - star1
+  - CircleEachGradient
+  - particle1
+  - star3
+  - WheelSeperator
+  - SpinButtonEdgeGlow
+  - SpinArrow
+  - SpinButtonTop
+  - Slice4Base
+  - Circles2
+  - CircleSelectionGlow8
+  - Slice8Selection
+  - Triangle
+  - Slice4Glow
+  - ArrowHead
+  - Slice16Base
+  - WheelShadow
+  - Slice8Base
+  - Slice16Glow
+  - ButtonMax
+  - Slice16Selection
+  - Slice8Glow
+  - star2
+  - Slice4Selection
+  - ParticleBasic
+  - CirclesStacked
+  - CircleSliceOverlay8
+  - SpinButton1
+  - MinMaxBar
+  - CircleSelection8
+  - SpinButtonGlowLine
+  - WheelBorder
+  m_RenderDataMap: {}
+  m_Tag: MainAtlas
+  m_IsVariant: 0
